@@ -1,4 +1,4 @@
-# Omkar Fileviewer
+# Fileviewer
 
 A Supabase Edge Function that checks for file updates by MD5 hash and returns signed download URLs.
 
